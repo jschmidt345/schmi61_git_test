@@ -8,3 +8,6 @@ Prog Background : 6 months of python, half web dev half data
 
 Jennifer Abel
 abeljen2@msu.edu
+
+Hayden Weiss
+weisshay@msu.edu
