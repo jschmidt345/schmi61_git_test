@@ -5,3 +5,6 @@ Major : Economics
 Year : Senior
 Where : New Buffalo MI
 Prog Background : 6 months of python, half web dev half data
+
+Jennifer Abel
+abeljen2@msu.edu
